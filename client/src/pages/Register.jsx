@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-const Login = () => {
+const Register = () => {
   return (
     <div className='auth'>
       <h1>Register</h1>
@@ -18,4 +18,4 @@ const Login = () => {
   )
 }
 
-export default Login
+export default Register
